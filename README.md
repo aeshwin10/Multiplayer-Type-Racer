@@ -11,6 +11,9 @@ TypeRacer challenges players to type text as quickly and accurately as possible 
 - Real-time multiplayer gameplay
 - Typing speed and accuracy measurement
 - Create or join game rooms
+  
+![Screenshot (71)](https://github.com/aeshwin10/Multiplayer-Type-Racer/assets/94974005/e94cffdf-7c22-4052-938e-2bf45ad944ea)
+
 
 ## Installation
 
