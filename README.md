@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 TypeRacer is deployed on Netlify. To play:
 
-1. Visit the [TypeRacer website] (add your Netlify link here)
+1. Visit the https://typeracer.netlify.app/
 2. Choose one of two options:
 - "Create Game" to start a new game room
 - "Join Game" to enter an existing game room
